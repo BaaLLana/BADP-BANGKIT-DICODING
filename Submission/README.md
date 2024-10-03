@@ -2,7 +2,7 @@
 Link Streamlit Cloud : [Bike Sharing Dashboard](https://HakimIqbal-bike-sharing.streamlit.app/)
 
 ## Preview
-![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/HakimIqbal/BADP-BANGKIT-DICODING/main/Submission/preview.png)
+![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/HakimIqbal/BADP-BANGKIT-DICODING/master/Submission/preview.png)
 
 
 ## Project installation to personal virtual environment

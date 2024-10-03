@@ -51,7 +51,7 @@ def sidebar(df):
     max_date = df["dteday"].max()
 
     with st.sidebar:
-        st.image("https://raw.githubusercontent.com/HakimIqbal/BADP-BANGKIT-DICODING/main/Submission/dashboard/Capital Bikeshare Logo.png")
+        st.image("https://raw.githubusercontent.com/HakimIqbal/BADP-BANGKIT-DICODING/master/Submission/dashboard/Capital Bikeshare Logo.png")
 
         def on_change():
             st.session_state.date = date
