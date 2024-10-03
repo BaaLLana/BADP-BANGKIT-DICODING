@@ -1,5 +1,5 @@
 # Proyek Analisis Data: Bike Sharing 
-Link Streamlit Cloud : [Bike Sharing Dashboard](https://bike-sharing-badp-msib7.streamlit.app/)
+Link Streamlit Cloud : [Bike Sharing Dashboard](https://bikesharing-badp-hakimiqbal.streamlit.app/)
 
 ## Preview
 ![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/HakimIqbal/BADP-BANGKIT-DICODING/master/Submission/preview.png)
